@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**NiGuangOwO/NiGuangOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Visitor's count :eyes:</h4>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://profile-counter.glitch.me/NiGuangOwO/count.svg" alt="NiGuangOwO :: Visitor's Count" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiGuangOwO&theme=tokyonight" alt="NiGuangOwO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NiGuangOwO&show_icons=true&theme=synthwave" alt="NiGuangOwO :: Profile Stats" /></p>
+
+---
+
+爱发电：https://afdian.net/a/NiGuangOwO
