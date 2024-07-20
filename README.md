@@ -14,4 +14,4 @@
 
 ---
 
-爱发电：https://afdian.net/a/NiGuangOwO
+爱发电：https://afdian.com/a/NiGuangOwO
