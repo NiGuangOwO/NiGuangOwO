@@ -15,3 +15,8 @@
 ---
 
 爱发电：https://afdian.com/a/NiGuangOwO
+
+卫月插件仓库：
+```
+https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json
+```
